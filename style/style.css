@@ -1,0 +1,58 @@
+.button {
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+.button4:hover {
+  background-color: orange;
+}
+.editFields {
+  width: 179px;
+}
+.buttonSpace {
+  margin-right: 4px;
+}
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn:hover {
+  color: black;
+}
+.alert2 {
+  padding: 20px;
+  background-color: #00cc00;
+  color: white;
+}
+.closebtn2 {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn2:hover {
+  color: black;
+}
+
